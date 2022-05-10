@@ -5,9 +5,11 @@
 - 💻 Em busca da primeira oportunidade no mercado
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHnrq&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHnrq&theme=dracula)](https://github.com/PHnrq/github-readme-stats)
+<div>
+  <a href="https://github.com/PHnrq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHnrq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHnrq&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Habilidades
 
